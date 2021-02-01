@@ -7,3 +7,4 @@ aws-deploy.yaml
 gcp-deploy.yaml
 3. **General syntax**
 test.yaml
+deploy-CI.yaml
