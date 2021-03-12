@@ -1,11 +1,11 @@
 ## github-actions
 
-This repository documents the YAML file syntax and configuration for certain CI pipelines using GitHub Actions 
+This repository documents the YAML file syntax and configuration for certain CI pipelines using GitHub Actions under ./github/workflows
 1. **Build, Publish, Deploy to Amazon ECS**
-- aws-deploy.yaml
+- aws-deploy-ecs.yaml
 2. **Build, Publish, Deploy on GKE**
-- gcp-deploy.yaml
-3. **Test, build, push, run  Docker images**
+- gcp-deploy-gke.yaml
+3. **Build, push, run  Docker images**
 - docker-CI.yaml
 4. **Test Go projects**
 - go-CI.yml
